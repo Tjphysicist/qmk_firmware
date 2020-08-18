@@ -52,5 +52,7 @@
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
+#define TAPPING_TOGGLE 2  //tap TT twice to switch layers.
+
 /* VIA related config */
 #define VIA_EEPROM_LAYOUT_OPTIONS_SIZE 2

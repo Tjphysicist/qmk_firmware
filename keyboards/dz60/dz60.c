@@ -19,3 +19,12 @@ void led_set_kb(uint8_t usb_led) {
 
     led_set_user(usb_led);
 }
+
+/*
+
+layer_state_t layer_state_set_user(layer_state_t state) {
+	IS_LAYER_ON_STATE(state,
+
+*/
+
+
